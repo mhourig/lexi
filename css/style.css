@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Abel);
+
+body {
+    padding: 0; 
+    margin: 0;
+    background-color: aquamarine;
+}
+#sentence {
+    position: relative;
+    color: black;
+    top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.word {
+    text-align: center;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3, h2 {
+    font-size: 2em;
+    font-family: 'Abel', sans-serif;
+    color: black;
+    display:inline;
+}
+
+
